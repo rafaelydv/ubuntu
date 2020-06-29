@@ -19,9 +19,9 @@ apt install xorg \
 	    pcmanfm \
 	    gvfs-fuse \
 	    gvfs-backends \
-	    lightdm-gtk-greeter-settings
+	    lightdm-gtk-greeter-settings \
 	    pavucontrol \
-            p7zip-full \
+        p7zip-full \
 	    xarchiver \
 	    rar \
 	    unrar
