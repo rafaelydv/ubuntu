@@ -6,7 +6,7 @@ apt install xorg \
 	    xfce4-session \
 	    xfce4-settings \
 	    xfce4-notifyd \
-	    xfce4-date-time-plugin \
+	    xfce4-datetime-plugin \
 	    xfce4-genmon-plugin \
 	    xfce4-whiskermenu-plugin \
 	    xfce4-taskmanager \
