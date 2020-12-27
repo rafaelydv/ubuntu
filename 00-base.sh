@@ -5,4 +5,6 @@ apt install xorg \
 	    vim \
 	    apt-transport-https \
 	    wget \
+	    network-manager \
+	    network-manager-gnome \
 	    screenfetch
