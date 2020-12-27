@@ -1,7 +1,7 @@
 #!/bin/bash
 #
-apt install firefox-esr \
-	    firefox-esr-l10n-pt-br \
+apt install firefox \
+	    firefox-locale-pt \
 	    transmission \
 	    transmission-gtk \
 	    filezilla
